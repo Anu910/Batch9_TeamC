@@ -1,0 +1,16 @@
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\bin\Debug\Billing Software.exe.config
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\bin\Debug\Billing Software.exe
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\bin\Debug\Billing Software.pdb
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.csproj.AssemblyReference.cache
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.Properties.Resources.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.csproj.GenerateResource.cache
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.csproj.CoreCompileInputs.cache
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.exe
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing Software.pdb
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.Register.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.Login.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.Order.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.Bill.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.AdminForm.resources
+C:\Users\anju\Desktop\VStudio22\Billing Software\Billing Software\obj\Debug\Billing_Software.ProductUpdate.resources
